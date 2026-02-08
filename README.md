@@ -1,5 +1,7 @@
 # Grief Support Network
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/awakeninginbelfast-svg/Grief_support_network)
+
 A compassionate web application providing resources and support for individuals navigating grief and loss.
 
 ## About
@@ -54,10 +56,40 @@ npm start
 
 ## Technology Stack
 
-- **Framework**: Next.js 14
+- **Framework**: Next.js 15
 - **Language**: TypeScript
 - **Styling**: CSS Modules
-- **Runtime**: React 18
+- **Runtime**: React 19
+- **Deployment**: Vercel (recommended) or any Next.js-compatible platform
+
+## Deployment
+
+This application is optimized for deployment with Next.js integration.
+
+### Quick Deploy
+
+Click the button below to deploy to Vercel with one click:
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/awakeninginbelfast-svg/Grief_support_network)
+
+### Manual Deployment
+
+1. **Vercel** (Recommended):
+   ```bash
+   npm install -g vercel
+   vercel
+   ```
+
+2. **Other Platforms**: See [DEPLOYMENT.md](./DEPLOYMENT.md) for detailed instructions for Netlify, Docker, and self-hosted options.
+
+The application includes:
+- ✅ Automatic Next.js detection
+- ✅ Optimized production builds
+- ✅ Security headers configured
+- ✅ Static generation for fast loading
+- ✅ Zero-configuration deployment
+
+For detailed deployment instructions, see [DEPLOYMENT.md](./DEPLOYMENT.md).
 
 ## Contributing
 
