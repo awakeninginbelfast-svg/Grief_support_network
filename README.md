@@ -55,7 +55,7 @@ npm run lint
 - **Framework**: [Next.js](https://nextjs.org) (App Router)
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
-- **Fonts**: Geist (via `next/font`)
+- **Fonts**: Geist (via `geist` package)
 
 ## Project Structure
 
